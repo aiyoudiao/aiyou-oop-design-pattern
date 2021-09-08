@@ -5,9 +5,12 @@
   "scripts": {
     "compile": "tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "oop",
+     "design pattern"
+  ],
+  "author": "哎哟迪奥",
+  "license": "GPL3",
   "devDependencies": {
     "@types/typescript": "^2.0.0",
     "typescript": "^4.3.2"
