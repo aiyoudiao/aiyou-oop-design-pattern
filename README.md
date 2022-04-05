@@ -23,4 +23,6 @@ npx tsc
 
 [点击掘金](https://juejin.cn/column/7068822869085519879)
 
+在浏览器的vscode中看代码，可以点击这个[github1s](https://github1s.com/aiyoudiao/aiyou-oop-design-pattern)
+
 
